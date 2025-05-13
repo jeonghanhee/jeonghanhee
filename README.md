@@ -4,6 +4,6 @@
   <img
     src="https://render.gitanimals.org/lines/jeonghanhee"
     width="600"
-    height="120"
+    height="240"
   />
 </a>
